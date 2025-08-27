@@ -389,6 +389,7 @@ margin-bottom: 80px;
 
 #sd-portfolio {
     display: none;
+  
 }
 
 
@@ -559,6 +560,7 @@ margin-bottom: 80px;
     position:relative;
     width: 75%;
     margin-left: 12.5%;
+  margin-bottom: 80px;
 }
 
 .ae-discography-container {
@@ -658,3 +660,4 @@ footer {
     cursor: pointer;
 
 }
+
