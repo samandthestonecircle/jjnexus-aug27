@@ -131,7 +131,7 @@ p {
 body {
     color: rgba(255, 255, 255, 0.803);
     /* position:relative; */
- 
+ background-color: black;
 }
 /* SOCIAL BAR */
 
@@ -656,4 +656,5 @@ footer {
     background-color: var(--white);
     color: black;
     cursor: pointer;
+
 }
